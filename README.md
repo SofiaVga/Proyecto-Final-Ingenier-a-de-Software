@@ -25,6 +25,15 @@ bash
 bash
 docker-compose up --build
 ---
+## 👥 Integrantes
+
+| Nombre                         | Correo                            |
+|-------------------------------|------------------------------------|
+| Ximena Neli                   | ncelisalonso@gmail.com             |
+| Sofia Vega                    | sofiavega320@aragon.unam.mx        |
+| Vega Ibañez Joseph Uriel      | vjosephuriel@gmail.com             |
+
+---
 
 ## 📁 Estructura del proyecto
 ```
