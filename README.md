@@ -17,7 +17,7 @@ Este es el proyecto final de la materia de Ingeniería de Software. Se trata de 
 ---
 ## 🐳 Ejecución en Docker
 
-### 1. Compilar el proyecto sin pruebas:
+### 1. Compilar el proyecto:
 bash
 ./mvnw clean package -DskipTests
 
